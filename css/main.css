@@ -1,3 +1,11 @@
 .question .card-image img{
     max-height: 100px;
 }
+
+.question-display img{
+    max-height: 50px;
+}
+
+.bold{
+    font-weight: bold;
+}
